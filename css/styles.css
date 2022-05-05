@@ -732,12 +732,14 @@ p {
   margin-bottom: 4px;
 }
 .card__project-area {
+  /* font-family: inherit; */
   line-height: 1.88;
   font-size: 16px;
+  color: var(--main-text-color);
 }
-/* .pic-margine-bottom {
+.profile-card__ava {
   margin-bottom: 20px;
-} */
+}
 .project__card {
   margin-right: 30px;
   margin-bottom: 30px;
